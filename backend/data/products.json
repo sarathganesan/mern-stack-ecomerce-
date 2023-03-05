@@ -1,0 +1,57 @@
+[
+    {
+        "name":"OPPO X3",
+        "price":"245.67",
+        "description":"this is a good phone",
+        "ratings":4.5,
+        "images":[
+            {
+                "image":"/images/products/1.jpg"
+            },{
+                "image":"/images/products/2.jpg"
+            }
+        ],
+        "category":"Mobile Phones",
+        "seller":"Amazon",
+        "stock":5,
+        "numOfReviews":15,
+        "reviews":[]
+        
+    },{
+        
+            "name":"samsung X3",
+            "price":"455.67",
+            "description":"this is a good phone",
+            "ratings":4.6,
+            "images":[
+                {
+                    "image":"product_87759897.jpg"
+                }
+            ],
+            "category":"Mobile Phones",
+            "seller":"Amazon",
+            "stock":5,
+            "numOfReviews":15,
+            "reviews":[]
+            
+        
+    },{
+        
+            "name":"OPPO X3",
+            "price":"600.67",
+            "description":"this is a good phone",
+            "ratings":4.5,
+            "images":[
+                {
+                    "image":"product_87759895.jpg"
+                }
+            ],
+            "category":"Mobile Phones",
+            "seller":"Amazon",
+            "stock":5,
+            "numOfReviews":15,
+            "reviews":[]
+            
+        
+    }
+]
